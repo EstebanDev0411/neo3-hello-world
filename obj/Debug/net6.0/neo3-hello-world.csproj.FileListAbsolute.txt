@@ -1,0 +1,5 @@
+E:\project\neo-blockchain\neo3-hello-world\obj\Debug\net6.0\neo3-hello-world.csproj.AssemblyReference.cache
+E:\project\neo-blockchain\neo3-hello-world\obj\Debug\net6.0\neo3-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\neo-blockchain\neo3-hello-world\obj\Debug\net6.0\neo3-hello-world.AssemblyInfoInputs.cache
+E:\project\neo-blockchain\neo3-hello-world\obj\Debug\net6.0\neo3-hello-world.AssemblyInfo.cs
+E:\project\neo-blockchain\neo3-hello-world\obj\Debug\net6.0\neo3-hello-world.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/PrtDmHP8teO6TS+KzvxUTtq5T4z8Wsr6iotvEZgWGL8q+7fEPZyfQDaNCTkOdLnUxvRB4BiZBCur63M/RtsMA==",
+  "success": true,
+  "projectFilePath": "E:\\project\\neo-blockchain\\neo3-hello-world\\neo3-hello-world.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\neo.smartcontract.framework\\3.5.0\\neo.smartcontract.framework.3.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\neo3.compiler.csharp.dev\\3.5.0\\neo3.compiler.csharp.dev.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
